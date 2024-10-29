@@ -56,6 +56,7 @@ O projeto foi realizado no formato Scrum, onde foi dado as seguintes funções p
 
   Projeto idealizado com o intuito de que se proponha um sistema de informações para um hortifruti. De modo que, através de seu uso, possa-se gerenciar o negócio de forma mais inteligente, a partir da boa utilização de estoque, bem como da destinação dos produtos. Através de recursos automatizados, a gerência do estabelecimento possa controlar de maneira adequada e aderir à tomada de decisões com inteligência de negócio e tempo hábil.
 Coletaram-se dados logísticos e administrativos e foram descobertas oportunidades de negócio, das quais pode-se concluir que a implementação do dito sistema será benéfica à todos que, por ocasião ou necessidade, relacionam-se com o hortifruti.
+
 Palavras-Chave: equipe, software, programação, metodologia, hortifruti
 
 
