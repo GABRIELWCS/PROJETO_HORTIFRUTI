@@ -59,4 +59,8 @@ Palavras-Chave: equipe, software, programação, PIM, técnicas, metodologia
 
 ## 🛠️ Ferramentas/Tecnologias
 
+-Vs Code
+-Git e Github
+-Linguagem de programação C.
+
 
