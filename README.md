@@ -22,6 +22,11 @@ Projeto PIM - 2° semestre de 2024
 |__Lucas Machado__| *Product Owner* | [![](https://bit.ly/3f9Xo0P)](https://github.com/LucasMachado12) | [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/lucas-machado-31510b32a/) |
 
 
+## 👨‍💻Contribuidores
+
+|Ex Aluno |
+|__Carlos Henrique Machado Castanheira Junior__|
+
 
 
 
