@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1729560358 source:c:\users\usuario\downloads\21-10-24\21-10-24\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<stdlib.h>
+
+1729728566 source:d:\23-10-24\23-10-24\21-10-24\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<stdlib.h>
+
+1729812882 source:e:\23-10-24\23-10-24\21-10-24\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<stdlib.h>
+
+1729893024 source:c:\users\lucas\downloads\pendrive\23-10-24\23-10-24\21-10-24\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<stdlib.h>
+

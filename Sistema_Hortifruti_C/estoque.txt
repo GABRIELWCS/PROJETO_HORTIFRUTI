@@ -1,0 +1,4 @@
+laranja 10 5,00 2,50
+banana 2 4,00 0,00
+Goiaba 1 6,00 12,00
+laranja 10 5,00 3,00
