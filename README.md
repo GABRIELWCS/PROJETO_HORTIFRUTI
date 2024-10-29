@@ -14,6 +14,8 @@ Projeto PIM - 2° semestre de 2024
 
 ## 👨‍💻 👩‍💻 Equipe de Desenvolvimento
 
+O projeto foi realizado no formato Scrum, onde foi dado as seguintes funções para cada membro da equipe.
+
 | Aluno            | Função           | GitHub                                                         | LinkedIn                                              |
 | ---------------- | ---------------- | -------------------------------------------------------------- | ----------------------------------------------------- |
 |__Caio Costa Santos__   | *Scrum Master*  | [![](https://bit.ly/3f9Xo0P)](https://github.com/Caio-eng-gif)| [![](https://bit.ly/2P1ZogM)](https://www.linkedin.com/in/caio-costa-santos-7a7277195/) |
