@@ -59,7 +59,7 @@ Palavras-Chave: equipe, software, programação, metodologia, hortifruti
 
 ## 💬 Descritivo do Projeto
 
-  O projeto estudado e desenvolvido é referente ao 1° E 2° Semestre do Curso Superior de tecnologia em Ánalise e Desenvolvimento de Sistemas, cujo objetivo do mesmo é simular um desenvolvimento de um sistema e aprimorar técnologias dentro de um hortifruti, utilizando as disciplinas estudadas dentro do 1° e 2° Período do curso.
+  O projeto estudado e desenvolvido é referente ao 1° E 2° Semestre do Curso Superior de tecnologia em Ánalise e Desenvolvimento de Sistemas, cujo objetivo do mesmo é simular o desenvolvimento de um sistema e aprimorar técnologias dentro de um hortifruti, utilizando as disciplinas estudadas dentro do 1° e 2° Período do curso.
 
 
 
