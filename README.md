@@ -24,8 +24,7 @@ Projeto PIM - 2° semestre de 2024
 
 ## 👨‍💻Contribuidores
 
-|Ex Aluno |
-|__Carlos Henrique Machado Castanheira Junior__|
+Ex Aluno 1° Período|Carlos Henrique Machado Castanheira Junior|
 
 
 
