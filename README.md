@@ -2,7 +2,7 @@
 Projeto PIM - 2° semestre de 2024
 
 
-# 🎓 Aprendizado por Projeto Integrador
+# 🎓 Projeto Acadêmico
 * UNIP
 
 * 2° Período - Analise e Desenvolvimento de Sistemas
